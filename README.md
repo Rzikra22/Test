@@ -101,7 +101,7 @@
 <header class="w3-display-container w3-center">
   <button class="w3-button w3-block w3-pink w3-hide-large w3-hide-medium" onclick="document.getElementById('download').style.display='block'">Download <i class="fa fa-android"></i> <i class="fa fa-apple"></i> <i class="fa fa-windows"></i></button>
   <div class="mySlides w3-animate-opacity">
-    <img class="w3-image" src="w3images/skin" alt="Image 1" style="min-width:500px" width="1500" height="1000">
+    <img class="w3-image" src="w3images/skin.jpg" alt="Image 1" style="min-width:500px" width="1500" height="1000">
     <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
       <div class="w3-light-pink w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
         <h1 class="w3-xlarge gradient-text">Glow with Confidence</h1>
@@ -112,7 +112,7 @@
     </div>
   </div>
   <div class="mySlides w3-animate-opacity">
-    <img class="w3-image" src="w3images/2" alt="Image 2" style="min-width:500px" width="1500" height="1000">
+    <img class="w3-image" src="w3images/2.jpg" alt="Image 2" style="min-width:500px" width="1500" height="1000">
     <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
       <div class="w3-light-purple w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
         <h1 class="w3-xlarge gradient-text"><b>Embrace Your Beauty</b></h1>
@@ -123,7 +123,7 @@
     </div>
   </div>
   <div class="mySlides w3-animate-opacity">
-    <img class="w3-image" src="w3images/3" alt="Image 3" style="min-width:500px" width="1500" height="1000">
+    <img class="w3-image" src="w3images/3.jpg" alt="Image 3" style="min-width:500px" width="1500" height="1000">
     <div class="w3-display-left w3-padding w3-hide-small" style="width:35%">
       <div class="w3-light-pink w3-opacity w3-hover-opacity-off w3-padding-large w3-round-large">
         <h1 class="w3-xlarge gradient-text">Unleash Your Potential</h1>
@@ -150,7 +150,7 @@
       <p>Available for <i class="fa fa-android w3-xlarge w3-text-green"></i> <i class="fa fa-apple w3-xlarge"></i> <i class="fa fa-windows w3-xlarge w3-text-blue"></i></p>
     </div>
     <div class="w3-col l4 m6">
-      <img src="w3images/12" class="w3-image w3-right w3-hide-small" width="335" height="471">
+      <img src="w3images/12.png" class="w3-image w3-right w3-hide-small" width="335" height="471">
     </div>
   </div>
 </div>
